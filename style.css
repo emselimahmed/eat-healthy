@@ -6,31 +6,31 @@ body{
 /* ======== Common Class======== */
 
 .cmn-flexible-area{
-    display: flex; 
+    display: flex;
+    padding: 20px 40px;
 }
 .cmn-width{
     width: 50%;
 }
 .cmn-color{
     color: #FC8B47;
-
 }
 h1{
-    font-size: 50px;
+    font-size: 60px;
     color: #575757;
 }
 .cmn-paragraph{
-    font-size: 25px;
+    font-size: 22px;
     color: #828282;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
 }
 .cmn-button{
     background-image: linear-gradient(#FBA24F, #FF1E1E);
     text-decoration: none;
     color: white;
     font-weight: 700;
-    padding: 15px;
-    border-radius: 10px;
+    padding: 25px 50px;
+    border-radius: 20px;
 }
 .cmn-img{
     width: 50%;
@@ -38,5 +38,4 @@ h1{
 /* ======== Top Class======== */
 
 .top-head{
-    padding: 70px;
 }

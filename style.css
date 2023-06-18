@@ -9,7 +9,7 @@ body{
     display: flex;
 }
 .cmn-sec-devide{
-    margin-bottom: 120px;
+    margin-bottom: 100px;
 }
 .cmn-width{
     width: 50%;
@@ -25,16 +25,18 @@ h2{
     color: #575757;
 }
 .cmn-paragraph{
-    font-size: 18px;
+    font-size: 17px;
     color: #828282;
-    padding-bottom: 40px;
+}
+.button-divide{
+    padding-bottom: 25px;
 }
 .cmn-button{
     background-image: linear-gradient(#FBA24F, #FF1E1E);
     text-decoration: none;
     color: white;
     font-weight: 700;
-    padding: 18px 30px;
+    padding: 15px 28px;
     border-radius: 20px;
 }
 .cmn-img{
@@ -84,21 +86,30 @@ h2{
 
 .rec-img-txt-area{
     box-shadow: gray 5px 5px 20px;
-    padding: 18px;
-    border-radius: 25px;
+    padding: 12px;
+    border-radius: 20px;
 }
 .rec-img-txt-main-div{
+    width: 100%;
 }
 .rec-first{
-    margin-top: 0;
-    margin-left: 200px;
-    margin-right: 30px;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 10px;
     margin-bottom: 100px;
 }
 .rec-second{
-        margin-top: 0;
-        margin-left: 30px;
-        margin-right: 200px;
+        margin-top: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
         margin-bottom: 100px;
-    
-    }
+}
+.rec-third{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+.rec-para{
+    color: black;
+}

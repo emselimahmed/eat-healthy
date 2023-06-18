@@ -80,3 +80,12 @@ h2{
     margin: 10px 340px;
     margin-bottom: 50px;
 }
+
+/* ============================== */
+
+.recipie-img-txt-area{
+    margin: 50px;
+}
+.recipie-img-txt-width{
+    width: 30%;
+}

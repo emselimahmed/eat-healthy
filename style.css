@@ -8,6 +8,7 @@ body{
 .cmn-flexible-area{
     display: flex;
     padding: 20px 40px;
+    margin-bottom: 120px;
 }
 .cmn-width{
     width: 50%;
@@ -35,7 +36,14 @@ h1{
 .cmn-img{
     width: 50%;
 }
+
 /* ======== Top Class======== */
 
-.top-head{
+
+
+/* ======== About Me Class======== */
+
+.about-bg{
+    background-image: url(img/shape/7.png);
+    background-repeat: no-repeat;
 }

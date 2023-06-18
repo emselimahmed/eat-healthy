@@ -34,7 +34,7 @@ h2{
     text-decoration: none;
     color: white;
     font-weight: 700;
-    padding: 22px 40px;
+    padding: 18px 30px;
     border-radius: 20px;
 }
 .cmn-img{
@@ -44,8 +44,9 @@ h2{
 /* ======== Top Class======== */
 
 .top-img{
-    margin-right: 70px;
-    margin-top: 5px;
+    margin-right: 50px;
+    margin-top: 10px;
+    margin-left: 50px;
 }
 .about-bg{
     padding: 20px 40px;

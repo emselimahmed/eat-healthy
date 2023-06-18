@@ -84,8 +84,12 @@ h2{
 /* ============================== */
 
 .recipie-img-txt-area{
-    margin: 50px;
 }
 .recipie-img-txt-width{
-    width: 30%;
+    width: 25%;
+    margin: 100px;
+}
+.recipie-img-txt2{
+    margin-right: 90px;
+    margin-left: 280px;
 }

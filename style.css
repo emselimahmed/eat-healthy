@@ -47,3 +47,7 @@ h1{
     background-image: url(img/shape/7.png);
     background-repeat: no-repeat;
 }
+.about-txt-area{
+    padding: 100px;
+    margin-left: 420px;
+}

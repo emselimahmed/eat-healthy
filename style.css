@@ -72,10 +72,10 @@ h2{
 
 /* ======== Recipie Class======== */
 
-.recipie-text{
+.rec-text{
     text-align: center;    
 }
-.recipie-paragraph{
+.rec-paragraph{
     padding: 0px;
     margin: 10px 340px;
     margin-bottom: 50px;
@@ -83,13 +83,9 @@ h2{
 
 /* ============================== */
 
-.recipie-img-txt-area{
-}
-.recipie-img-txt-width{
-    width: 25%;
-    margin: 100px;
-}
-.recipie-img-txt2{
-    margin-right: 90px;
-    margin-left: 280px;
+
+.rec-img-txt-area{
+    box-shadow: gray 5px 5px 20px;
+    padding: 20px;
+    border-radius: 20px;
 }

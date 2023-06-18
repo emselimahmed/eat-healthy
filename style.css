@@ -5,3 +5,38 @@ body{
 
 /* ======== Common Class======== */
 
+.cmn-flexible-area{
+    display: flex; 
+}
+.cmn-width{
+    width: 50%;
+}
+.cmn-color{
+    color: #FC8B47;
+
+}
+h1{
+    font-size: 50px;
+    color: #575757;
+}
+.cmn-paragraph{
+    font-size: 25px;
+    color: #828282;
+    padding-bottom: 20px;
+}
+.cmn-button{
+    background-image: linear-gradient(#FBA24F, #FF1E1E);
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    padding: 15px;
+    border-radius: 10px;
+}
+.cmn-img{
+    width: 50%;
+}
+/* ======== Top Class======== */
+
+.top-head{
+    padding: 70px;
+}

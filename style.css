@@ -7,8 +7,9 @@ body{
 
 .cmn-flexible-area{
     display: flex;
-    padding: 20px 40px;
-    margin-bottom: 150px;
+}
+.cmn-sec-devide{
+    margin-bottom: 120px;
 }
 .cmn-width{
     width: 50%;
@@ -24,7 +25,7 @@ h2{
     color: #575757;
 }
 .cmn-paragraph{
-    font-size: 22px;
+    font-size: 18px;
     color: #828282;
     padding-bottom: 40px;
 }
@@ -45,9 +46,16 @@ h2{
 .top-img{
     margin-right: 70px;
     margin-top: 5px;
-    
-
 }
+.about-bg{
+    padding: 20px 40px;
+    margin-bottom: 80px;
+}
+.top-txt{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
 
 /* ======== About Me Class======== */
 
@@ -67,5 +75,7 @@ h2{
     text-align: center;    
 }
 .recipie-paragraph{
-    padding: 10px;
+    padding: 0px;
+    margin: 10px 340px;
+    margin-bottom: 50px;
 }

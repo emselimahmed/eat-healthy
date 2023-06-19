@@ -123,3 +123,13 @@ h2{
 
 /* ======== Followers Class======== */
 
+.one-third-width{
+    width: 33.33%;
+    text-align: center;
+}
+.follower-box-shadow{
+    box-shadow: gray 2px 3px 5px 3px;
+}
+.recipie-sec-devide{
+    margin-bottom: 100px;
+}

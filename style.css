@@ -45,6 +45,9 @@ h2{
 
 /* ======== Top Class======== */
 
+.top-sec-devide{
+    margin-bottom: 100px;
+}
 .top-img{
     margin-right: 50px;
     margin-top: 10px;
@@ -81,7 +84,7 @@ h2{
     margin-right: 340px;
 }
 
-/* ============================== */
+/* ======= Recipie>Item Class ========= */
 
 .rec-divide{
     margin-bottom: 150px;

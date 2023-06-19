@@ -70,7 +70,6 @@ h2{
 }
 .about-txt-area{
     margin: 100px;
-
 }
 
 /* ======== Recipie Class======== */
@@ -79,7 +78,9 @@ h2{
     margin-bottom: 100px;
 }
 .rec-text{
-    text-align: center;    
+    text-align: center;
+    margin-bottom: 50px;    
+    margin-top: 50px;    
 }
 .rec-paragraph{
     margin-left: 340px;
@@ -141,8 +142,13 @@ h2{
 .follower-heading{
     color: black;
 }
+.follower-big-heading{
+    text-align: center;
+    color: #575757;
+    margin-bottom: 80px;
+}
 
-/* ======== Followers Class======== */
+/* ======== Footer Class======== */
 
 footer{
     background-color: black;

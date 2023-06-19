@@ -9,7 +9,7 @@ body{
     display: flex;
 }
 .cmn-sec-devide{
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 }
 .cmn-width{
     width: 50%;
@@ -83,7 +83,9 @@ h2{
 
 /* ============================== */
 
-
+.rec-divide{
+    margin-bottom: 150px;
+}
 .rec-img-txt-area{
     box-shadow: gray 5px 5px 20px;
     padding: 12px;

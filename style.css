@@ -154,3 +154,10 @@ footer{
     text-align: center;
     padding: 50px;
 }
+.footer-sec-devide{
+    padding-bottom: 50px;
+}
+#copyright{
+    color: gray;
+    text-align: center;
+}

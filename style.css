@@ -126,10 +126,16 @@ h2{
 .one-third-width{
     width: 33.33%;
     text-align: center;
+    
 }
 .follower-box-shadow{
-    box-shadow: gray 2px 3px 5px 3px;
+    box-shadow: gray 2px 3px 5px 3px; 
+    width: 70%;
+    margin-left: 200px;
 }
-.recipie-sec-devide{
+.follower-sec-devide{
     margin-bottom: 100px;
+}
+.follower-heading{
+    color: black;
 }

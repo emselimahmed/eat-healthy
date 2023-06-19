@@ -8,9 +8,7 @@ body{
 .cmn-flexible-area{
     display: flex;
 }
-.cmn-sec-devide{
-    margin-bottom: 150px;
-}
+
 .cmn-width{
     width: 50%;
 }
@@ -70,12 +68,13 @@ h2{
 }
 .about-txt-area{
     padding: 100px;
-    width: 100%;
-    margin-left: 50px;
 }
 
 /* ======== Recipie Class======== */
 
+.recipie-sec-devide{
+    margin-bottom: 100px;
+}
 .rec-text{
     text-align: center;    
 }
@@ -86,8 +85,8 @@ h2{
 
 /* ======= Recipie>Item Class ========= */
 
-.rec-divide{
-    margin-bottom: 150px;
+.about-sec-devide{
+    margin-bottom: 90px;
 }
 .rec-img-txt-area{
     box-shadow: gray 5px 5px 20px;

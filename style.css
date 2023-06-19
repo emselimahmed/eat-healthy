@@ -60,14 +60,19 @@ h2{
 }
 
 
+
 /* ======== About Me Class======== */
 
 .about-bg{
-    background-image: url(img/shape/7.png);
+    background-image: url(img/shapes/7.png);
     background-repeat: no-repeat;
 }
 .about-txt-area{
-    padding: 100px;
+    margin: 100px;
+
+}
+.about-para-devide{
+    margin-bottom: 50px;
 }
 
 /* ======== Recipie Class======== */

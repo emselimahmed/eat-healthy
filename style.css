@@ -89,7 +89,7 @@ h2{
 /* ======= Recipie>Item Class ========= */
 
 .about-sec-devide{
-    margin-bottom: 90px;
+    margin-bottom: 10px;
 }
 .rec-img-txt-area{
     box-shadow: gray 5px 5px 20px;
@@ -132,10 +132,25 @@ h2{
     box-shadow: gray 2px 3px 5px 3px; 
     width: 70%;
     margin-left: 200px;
+    padding: 5px;
 }
 .follower-sec-devide{
     margin-bottom: 100px;
+
 }
 .follower-heading{
     color: black;
+}
+
+/* ======== Followers Class======== */
+
+footer{
+    background-color: black;
+}
+.footer-text{
+    color: white;
+}
+.footer-div{
+    text-align: center;
+    padding: 50px;
 }

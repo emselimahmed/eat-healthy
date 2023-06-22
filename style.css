@@ -37,6 +37,10 @@ h2{
     padding: 15px 28px;
     border-radius: 20px;
 }
+.cmn-button:hover{
+    background-image: linear-gradient(rgb(125, 252, 41), rgb(0, 139, 12));
+    color: white;.
+}
 .cmn-button-divide{
     margin-bottom: 50px;
 }
